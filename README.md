@@ -1,4 +1,4 @@
-#### How to Root Y9 Prime 2019?
+### How to Root Y9 Prime 2019?
 
 **You Are In The Right Place To Gain A knowledge About It!**
 
@@ -20,4 +20,4 @@ Actually You Cant Root This Phone Like 2018 or 2017 Phones. Because 2019 Huawei 
 
 
 
-Thanks For Visiting My Page. `[Arif Rawf](http://github.com/ArifRawf)`
+Thanks For Visiting My Page. [Arif Rawf](http://github.com/ArifRawf)
