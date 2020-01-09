@@ -23,12 +23,3 @@ The performance is just right for smooth multitasking, modern day gaming and ove
 
 There is a `fast fingerprint sensor and face unlock for security`. Huawei EMUI 9 with Android Pie v9.0 should also give a pretty stable, smooth and secure experience. There is no dedicated MicroSD slot, which means you can either use dual SIM or a single SIM and a MicroSD card at the same time. Huawei Y9 Prime (2019) comes with USB Type-C.
 
-
-## Now Can We Root This Phone?
-
-
-Actually You Cant Root This Phone Like 2018 or 2017 Phones. Because 2019 Huawei Has More Security With Their Custom Rom Where `You Cant Root` This Phone.
-
-
-
-Thanks For Visiting My Page. [Arif Rawf](http://github.com/ArifRawf)
